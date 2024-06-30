@@ -20,14 +20,11 @@ body{
 .book{
 	background-color : #F2F1F1;
 	padding : 10px;
-	/* border : 2px solid black; */
-		margin : 10px 0px;
-
-	
+	margin : 10px 0px;	
 }
 
 .book-button{
-	background-color : #30CC71;
+	background-color : rgb(46, 204, 113);
 	color : white;
 	width : 100%;
 	border : none;
