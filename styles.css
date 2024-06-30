@@ -1,1 +1,36 @@
-/*  your css code here. If applicable */
+body{
+	background-color : #f8f8f8;
+	
+}
+
+.main-section{
+	margin : 10px;
+
+}
+.heading{
+	background-color : #F2F1F1;
+	align-items : center;
+	text-align : center;
+}
+
+.book-library{
+	background-color : #ffffff;
+}
+
+.book{
+	background-color : #F2F1F1;
+	padding : 10px;
+	/* border : 2px solid black; */
+		margin : 10px 0px;
+
+	
+}
+
+.book-button{
+	background-color : #30CC71;
+	color : white;
+	width : 100%;
+	border : none;
+	border-radius : 5px;
+	padding : 10px;
+}
