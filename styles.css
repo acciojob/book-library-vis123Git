@@ -23,9 +23,14 @@ body{
 	margin : 10px 0px;	
 }
 
+.author{
+		background-color : rgb(119, 119, 119);
+	
+}
+
 .book-button{
 	background-color : rgb(46, 204, 113);
-	color : white;
+	color : rgb(255, 255, 255);
 	width : 100%;
 	border : none;
 	border-radius : 5px;
