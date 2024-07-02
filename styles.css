@@ -1,5 +1,7 @@
 body{
 	background-color : #f8f8f8;
+		border-radius : 5px;
+
 	
 }
 
@@ -25,17 +27,16 @@ body{
 }
 
 .author{
-		background-color : rgb(119, 119, 119);
+		color : rgb(119, 119, 119);
 	
 }
 
 .book-button{
 	background-color : rgb(46, 204, 113);
 	color : rgb(255, 255, 255);
-	width : auto;
+	width : 100%;
 	border : none;
 	border-radius : 5px;
-	margin : 10px;
-		padding : 10px;
+	padding : 10px;
 
 }
