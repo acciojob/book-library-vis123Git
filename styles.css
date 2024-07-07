@@ -1,31 +1,28 @@
 body{
-	background-color : #f8f8f8;
-		border-radius : 5px;
-
-	
+	background-color: #F8F8F8;
 }
 
 .main-section{
-	margin : 10px;
+	margin: 0px 20px;
+		border-radius : 10px
 
 }
 .heading{
 	background-color : #F2F1F1;
 	align-items : center;
 	text-align : center;
-}
-
-.book-library{
-	background-color : #ffffff;
+	padding : 5px 0px
 }
 
 .book{
 	background-color : #F2F1F1;
 	padding : 10px;
 	margin : 10px 0px;	
-	border-radius : 10px
 }
-
+.book-img{
+	align-items:center;
+	text-align : center;
+}
 .author{
 		color : rgb(119, 119, 119);
 	
@@ -38,5 +35,4 @@ body{
 	border : none;
 	border-radius : 5px;
 	padding : 10px;
-
 }
