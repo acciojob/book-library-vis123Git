@@ -1,11 +1,11 @@
 body{
-	background-color: #F8F8F8;
+	background-color: #f8f8f8;
 }
 
 .main-section{
 	margin: 0px 20px;
 	border-radius : 10px;
-	/* box-shadow : 1px 1px 1px; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
 }
 .heading{
